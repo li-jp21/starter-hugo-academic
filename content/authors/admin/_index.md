@@ -20,7 +20,7 @@ education:
     - institution: Tsinghua University
       year: 2021
       course: B.A. in Economics
-email: ""
+email: lijinpu19990306@gmail.com
 superuser: true
 highlight_name: true
 ---
