@@ -14,7 +14,7 @@ organizations:
     url: https://www.tsinghua.edu.cn/
 education:
   courses:
-    - course: Ph.D. Students in Economics, in progress
+    - course: Ph.D. Student in Economics, in progress
       institution: Tsinghua University
       year: ""
     - institution: Tsinghua University
