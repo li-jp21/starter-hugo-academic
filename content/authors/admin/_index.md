@@ -13,7 +13,13 @@ organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/
 education:
-  courses: []
+  courses:
+    - course: Ph.D. Students in Economics, in progress
+      institution: Tsinghua University
+      year: ""
+    - institution: Tsinghua University
+      year: 2021
+      course: B.A. in Economics
 email: ""
 superuser: true
 highlight_name: true
